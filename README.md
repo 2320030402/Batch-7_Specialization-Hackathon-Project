@@ -493,5 +493,3 @@ cd backend && python3 app/utils.py
 ```
 
 ---
-
-**Made with ❤️ for sustainable agriculture**
